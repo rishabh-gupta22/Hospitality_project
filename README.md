@@ -17,3 +17,7 @@ CSV files for raw data in repository:
 5. fact_bookings
 
 **Steps**
+1. Extraction of data from csv files
+2. Creating connections in Model view
+3. using power Query to tranform and clean data and make it insight -ready
+4. Creating Dashboard on PowerBI desktop.
